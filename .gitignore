@@ -349,3 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 QuickbookIntegration/QuickbookIntegration/appsettings.json
+QuickbookIntegration/QuickbookIntegration/Views/Web.config
+QuickbookIntegration/QuickbookIntegration/Web.config
+QuickbookIntegration/QuickbookIntegration/Views/Web.config
+QuickbookIntegration/QuickbookIntegration/Web.config
